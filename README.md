@@ -46,7 +46,7 @@ Here’s how the card works:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/happy-birthday-card.git
+git clone https://github.com/Ritupagar12/birthday-card.git
 ```
 2. Navigate to the project folder:
 ```bash
